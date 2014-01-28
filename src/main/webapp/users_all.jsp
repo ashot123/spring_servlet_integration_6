@@ -4,7 +4,7 @@
 <%--<%@ taglib prefix="c" uri="http://java.sun.com/jstl/core" %>--%>
 <%--<%@ taglib prefix="c" uri="http://java.sun.com/jstl/core" %>--%>
 
-<jsp:useBean id="allUsers" type="java.util.List<net.karakhanyan.integration.entity.User>" scope="request"/>
+<jsp:useBean id="allUsers" type="java.util.Collection<net.karakhanyan.integration.entity.User>" scope="request"/>
 <%--<jsp:useBean id="user" scope="request" type="net.karakhanyan.integration.entity.User"/>--%>
 <html><body>
 

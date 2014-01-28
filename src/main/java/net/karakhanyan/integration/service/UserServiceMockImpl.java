@@ -10,7 +10,6 @@ import java.util.Map;
  * Created by Ashot Karakhanyan on 27-01-2014
  */
 public class UserServiceMockImpl implements UserService {
-
     private static final Map<Integer, User> users = new HashMap<Integer, User>();
 
     static {

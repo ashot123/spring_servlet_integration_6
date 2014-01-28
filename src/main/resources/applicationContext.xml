@@ -10,6 +10,5 @@
         <property name="userService" ref="userService"/>
     </bean>
 
-
-    <!--<context:component-scan base-package="net.karakhanyan.integration.controller" />-->
+<!--    <context:component-scan base-package="net.karakhanyan.integration.controller" />-->
 </beans>

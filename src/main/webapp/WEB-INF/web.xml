@@ -12,12 +12,4 @@
         <listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
     </listener>
 
-   <!-- <controller>
-        <controller-name>myServlet</controller-name>
-        <controller-class>org.springframework.web.context.support.HttpRequestHandlerServlet</controller-class>
-    </controller>
-    <controller-mapping>
-        <controller-name>myServlet</controller-name>
-        <url-pattern>/myServlet</url-pattern>
-    </controller-mapping>-->
 </web-app>
