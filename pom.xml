@@ -87,6 +87,6 @@
         </dependency>
     </dependencies>
     <build>
-        <finalName>Spring Servlet Integration(version 6)</finalName>
+        <finalName>Spring Servlet Integration(v. 6)</finalName>
     </build>
 </project>
